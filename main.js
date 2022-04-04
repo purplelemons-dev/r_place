@@ -4,7 +4,7 @@ const fetch = require('node-fetch'); // version @2.6.1 - otherwise cannot use re
 
 const URL="https://gql-realtime-2.reddit.com/query";
 
-const TOKEN=null; // Obtained at login or page refresh
+const TOKEN=""; // Obtained by generating requests in the browser. See readme.
 
 const COORDS={
     x:652,
