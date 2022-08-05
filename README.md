@@ -2,7 +2,7 @@
 
 ## Origin/Abstract
 
-I created this repo for knowledgeable programmers to obtain a good foundation for creaiting fetch requests for reddit's r/place.
+~~I created this repo for knowledgeable programmers to obtain a good foundation for creaiting fetch requests for reddit's r/place event.~~ This event has concluded.
 
 ## Requirements
 
